@@ -1,0 +1,11 @@
+spring:
+  main:
+    banner-mode: off
+  datasource:
+    url: jdbc:mysql://localhost:3306/java_restaurant
+    username: root
+    password: qApz88gei75eCSjz
+  jpa:
+    hibernate:
+      ddl-auto: update
+
